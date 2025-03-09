@@ -1,0 +1,7 @@
+input[type="file"] {
+    padding-right: 10px; /* Menambahkan ruang di sebelah kanan */
+}
+
+input[type="file"]::file-selector-button {
+    margin-right: 10px; /* Menambahkan ruang setelah tombol "Choose File" */
+}
